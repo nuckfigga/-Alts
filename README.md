@@ -1,2 +1,2 @@
-# -Alts
-MC alt managing discord bot
+# hate Alts
+MC account managing discord bot
