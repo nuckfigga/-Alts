@@ -1,0 +1,13 @@
+{
+  "token": "",
+  "prefix": "",
+  "host": "",
+  "version": "1.8.9",
+  "hub_command":"",
+  "anti_afk_command": "",
+  "Chat_anti_AFK": false,
+  "Chat_anti_AFK_delay": 60,
+  "LoginDelay": 6,
+  "EnableAdminRole": true,
+  "AdminRoleID": ""
+}
